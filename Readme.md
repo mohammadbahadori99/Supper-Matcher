@@ -1,4 +1,4 @@
-1-it’s an important part of the MVVM that the ViewModel knows nothing about the View so we should never pass the Fragment to functions of ViewModel. (MainFragment: 18)
+1- It’s an important part of the MVVM that the ViewModel knows nothing about the View so we should never pass the Fragment to functions of ViewModel. (MainFragment: 18)
 
 2- We should use Repository pattern to implement separation of concerns by abstracting the data persistence logic in our application so we can use repository instead of database in our ViewModel.( MainViewModel: 10)
 
@@ -11,5 +11,6 @@
 * Ease of testing
 * Reusability of code
 * Ease of refactoring
+
 6- We can improve navigation by using Navigation Components and SafeArgs.
 ( MainActivity: 21 MainFragment: 24)
