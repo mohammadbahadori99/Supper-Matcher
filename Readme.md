@@ -8,8 +8,8 @@
 
 5- By following the principles of DI, we can provide the following advantages:
 (MainViewModel:10,11 SimDB: 12)
-Ease of testing
-Reusability of code
-Ease of refactoring
+* Ease of testing
+* Reusability of code
+* Ease of refactoring
 6- We can improve navigation by using Navigation Components and SafeArgs.
 ( MainActivity: 21 MainFragment: 24)
